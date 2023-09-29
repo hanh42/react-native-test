@@ -1,0 +1,8 @@
+export const COLOR_BUTTON = '#0065FF'
+export const COLOR_WHITE = '#fff'
+export const COLOR_BORDER = '#D9D9D9'
+export const COLOR_TEXT_CREATE_NORMAL_POST = '#0065FF'
+export const COLOR_BLACK = '#000'
+export const COLOR_BOTTOM_ICON = '#F0F0F0'
+export const BACKGROUND_COLOR_BOTTOM_ICON = '#D9D9D9'
+export const PURPLE_COLOR = '#8919FF'
